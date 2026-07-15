@@ -1,16 +1,16 @@
-## Hi there 👋
+## Yev's corner of the interwebs
 
-<!--
-**yevbar/yevbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I've spent half my career in devtools, writing coder for other coders, and half my career fighting crime with software.
 
-Here are some ideas to get you started:
+Below are some of the things I've made along the way:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Rewrite of git in zig](https://github.com/hdresearch/ziggit)
+- [Self-hosted iMessage client for Python](https://github.com/lsd-so/lusid)
+- [WebAssembly toolkit for Elixir](https://github.com/hdresearch/firebird)
+- [Magic the Gathering engine for Python](https://github.com/yevbar/witchcraft)
+- [Python package for hosting a postgres wire compatible server](https://github.com/yevbar/postgres-wire)
+- [emacs package for interfacing with jest](https://github.com/yevbar/emacs-jest)
+- [Beat MemPalace at retaining](https://github.com/hdresearch/retaining)
+- [Coding agent harness for greenfield development](https://github.com/hdresearch/zagent)
+- [More performant OCaml parser than Jane Street](https://github.com/hdresearch/parsexp)
+- [COBOL inspired language for browsers](https://github.com/yevbar/browserbased)
