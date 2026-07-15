@@ -1,6 +1,6 @@
 ## Yev's corner of the interwebs
 
-I've spent half my career in devtools, writing coder for other coders, and half my career fighting crime with software.
+I've spent half my career in devtools, writing code for other coders, and half my career fighting crime with software.
 
 Below are some of the things I've made along the way:
 
